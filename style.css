@@ -47,7 +47,7 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 120px;
 }
 
 .hero-image .container {
@@ -83,9 +83,8 @@ body {
 }
 
 .user-image {
-  margin: 0 0 32px;
+  margin: 0 0 30px;
   text-align: center;
-  border-radius: 50%;
 }
 
 .intro h3,
